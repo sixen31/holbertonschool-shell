@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a /boot -al
+ls -al /boot | grep "^\."
