@@ -1,1 +1,1 @@
-at the root of the folder of the project
+at the root of the folder of the project.
