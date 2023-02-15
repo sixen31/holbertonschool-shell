@@ -1,2 +1,2 @@
 #!/bin/bash
-ls  -lR PATH
+echo $(('echo $PTAH | grep -o ":/" | wc' +1))
