@@ -1,2 +1,2 @@
 #!/bin/bash
-alias -p hello='echo "Hello (whoami)!"'
+alias -p hello MyUse | whoami
